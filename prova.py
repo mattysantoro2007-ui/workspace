@@ -1,0 +1,2 @@
+ciao = "helloworld"
+print(ciao)
